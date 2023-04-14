@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "termcolor",
+    "License": "MIT",
+    "License File": "LICENSE-MIT",
+    "Version Number": "1.2.0",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/BurntSushi/termcolor",
+    "Description": "A Rust library that provides support for colored terminal output."
+  }
+]
