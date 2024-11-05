@@ -1,6 +1,6 @@
 [
   {
-    "Name": "termcolor",
+    "Name": "BurntSushi/termcolor",
     "License": "MIT",
     "License File": "LICENSE-MIT",
     "Version Number": "1.2.0",
