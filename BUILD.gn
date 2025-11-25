@@ -23,4 +23,7 @@ ohos_cargo_crate("lib") {
     cargo_pkg_version = "1.2.0"
     cargo_pkg_authors = "Andrew Gallant <jamslam@gmail.com>"
     cargo_pkg_name = "termcolor"
+    module_output_extension = ".rlib"
+    part_name = "rust_termcolor"
+    subsystem_name = "thirdparty"
 }
